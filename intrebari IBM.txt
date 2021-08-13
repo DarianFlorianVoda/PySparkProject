@@ -1,0 +1,18 @@
+reporting date: date?
+creez o tabela din pyspark, pot? fara sa dau overwrite sau append
+
+cast pt celelalte date ca sa fie cum trebuie?
+Aggregate dar sa pastrez si celelalte coloane
+no duplicates bcs of primary key school unit name
+tf_data = data.groupby - nu-l face DF?
+
+
+------
+
+accesare df in functie de index?
+
+de portat pe laptop
+de facut average -- vezi ioana conversatie
+-->full outer join + group by school si gender
+cast to date
+era ok daca faceam equi join? pt ca nu se specifica daca sunt aceleasi scoli sau nu
